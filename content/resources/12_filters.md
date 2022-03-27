@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 9384461b-aeba-b2c6-c719-60dbb10543fb
 resourcetype: Document
 title: 12_filters.pdf
 uid: 21e9fbf2-dd22-2913-3864-f1baac0b6335

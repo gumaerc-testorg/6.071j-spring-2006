@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 2a24b641-e32b-77e5-bf32-2bb33f09679c
 resourcetype: Document
 title: lab10cap_induct.pdf
 uid: cb305f01-27cb-e070-d897-4b442ab8ef83

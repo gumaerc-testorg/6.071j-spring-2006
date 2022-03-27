@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 2a24b641-e32b-77e5-bf32-2bb33f09679c
 resourcetype: Document
 title: lab4_signals3.pdf
 uid: 1bdf7441-866b-53d0-7714-19ecfced67e1

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 9384461b-aeba-b2c6-c719-60dbb10543fb
 resourcetype: Document
 title: impednce_rlc_sol.pdf
 uid: ee72ddc1-ba87-792d-c657-9f7f2157ea42

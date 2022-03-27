@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 2a24b641-e32b-77e5-bf32-2bb33f09679c
 resourcetype: Document
 title: lab5_kcl_kvl.pdf
 uid: 33fe1bde-1232-982e-2cc2-705f17bed4ea

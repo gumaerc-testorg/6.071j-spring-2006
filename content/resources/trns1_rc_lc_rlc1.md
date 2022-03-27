@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 9384461b-aeba-b2c6-c719-60dbb10543fb
 resourcetype: Document
 title: trns1_rc_lc_rlc1.pdf
 uid: 3021be47-ce51-0605-07c5-fa54373f2d78

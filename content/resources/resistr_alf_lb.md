@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 2a24b641-e32b-77e5-bf32-2bb33f09679c
 resourcetype: Document
 title: resistr_alf_lb.pdf
 uid: 1fc7bcd5-091e-339c-47ab-7484492d8fa9

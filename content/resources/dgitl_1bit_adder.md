@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 2a24b641-e32b-77e5-bf32-2bb33f09679c
 resourcetype: Document
 title: dgitl_1bit_adder.pdf
 uid: 406846a6-f052-eb33-50e9-9ac4a6ba4eb8

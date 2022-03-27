@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 2a24b641-e32b-77e5-bf32-2bb33f09679c
 resourcetype: Document
 title: lab20_opamps1.pdf
 uid: 627bb6e1-3edc-cf6e-6dc3-bf01a2f05bdc

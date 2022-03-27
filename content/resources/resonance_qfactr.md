@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 9384461b-aeba-b2c6-c719-60dbb10543fb
 resourcetype: Document
 title: resonance_qfactr.pdf
 uid: 5bcec4bf-ba5f-2e99-754b-77509e9e7ab4
