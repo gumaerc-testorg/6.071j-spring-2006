@@ -10,6 +10,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types: []
 ocw_type: OCWImage
+parent_uid: null
 resourcetype: Image
 title: chp_sgnl_procesr.jpg
 uid: 9f37ea3e-7dce-aec4-fcd3-110fcbf745d9

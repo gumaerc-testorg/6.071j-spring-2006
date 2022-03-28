@@ -2,11 +2,12 @@
 content_type: page
 learning_resource_types: []
 ocw_type: CourseSection
+parent_uid: null
 title: Syllabus
 uid: a7395c0e-e6fd-8937-9772-0b231b3ff655
 ---
 
-A list of topics covered in the course is available in the [calendar]({{< baseurl >}}/pages/calendar).
+A list of topics covered in the course is available in the {{< resource_link 4b10ef67-fbc7-ac38-0a91-a151bcee6669 "calendar" >}}.
 
 Course Meeting Times
 --------------------
