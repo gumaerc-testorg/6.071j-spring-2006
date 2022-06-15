@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/07d98610e968a5b22203ae8cc26ca7ce_diode_1n914.pdf
+file: /courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/07d98610e968a5b22203ae8cc26ca7ce_diode_1n914.pdf
 file_type: application/pdf
 learning_resource_types:
 - Labs

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'The ZIP file contains: Current_Source_01.vi'
-file: /media/courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/0e16bc95b9c0978fbeb13f7783372708_lab9.zip
+file: /courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/0e16bc95b9c0978fbeb13f7783372708_lab9.zip
 file_type: application/zip
 learning_resource_types:
 - Labs
@@ -13,3 +13,5 @@ resourcetype: Other
 title: lab9.zip
 uid: 0e16bc95-b9c0-978f-beb1-3f7783372708
 ---
+The ZIP file contains: Current_Source_01.vi
+

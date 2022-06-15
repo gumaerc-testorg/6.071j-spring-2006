@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/bbf3a8783d4c5416d4c6c12859b5df1a_prtyping_gdlins.pdf
+file: /courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/bbf3a8783d4c5416d4c6c12859b5df1a_prtyping_gdlins.pdf
 file_type: application/pdf
 learning_resource_types:
 - Labs
