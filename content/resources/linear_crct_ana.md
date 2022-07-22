@@ -7,6 +7,7 @@ file: /courses/6-071j-introduction-to-electronics-signals-and-measurement-spring
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: linear_crct_ana.pdf
 uid: 004de24d-d40e-3938-b039-3a6a2bd91788
 ---
 This resource discusses about a time-independent elements, the i-v characteristics of circuits, Thevenin equivalent circuits and the wheatstone bridge circuit as a measuring instrument.
-

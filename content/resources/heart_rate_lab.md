@@ -5,6 +5,7 @@ file: /courses/6-071j-introduction-to-electronics-signals-and-measurement-spring
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: heart_rate_lab.pdf
 uid: fe3cc74b-da73-fa13-9d19-c39540c68248
 ---
 This resource contains information on objectives, expectations, and senser.
-

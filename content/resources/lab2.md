@@ -6,6 +6,7 @@ file: /courses/6-071j-introduction-to-electronics-signals-and-measurement-spring
 file_type: application/zip
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lab2.zip
 uid: a1c7fb1a-43d2-c9e6-5884-9695089d8d29
 ---
 The ZIP file contains: Adding_sinusoidal_signals.vi, Sound_Signal.vi, and PianoC.wav files.
-

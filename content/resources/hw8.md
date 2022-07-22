@@ -6,6 +6,7 @@ file: /courses/6-071j-introduction-to-electronics-signals-and-measurement-spring
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: hw8.pdf
 uid: d59fa852-c35a-6a15-3237-5e0d4586800f
 ---
 This resource contains problems on circuits driven with sinusoidal input waveforms.
-

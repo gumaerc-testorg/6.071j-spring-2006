@@ -5,6 +5,7 @@ file: /courses/6-071j-introduction-to-electronics-signals-and-measurement-spring
 file_type: application/zip
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lab22.zip
 uid: 7b6fbd24-2a92-a7b0-e0fe-740adbf71ab8
 ---
 The ZIP file contains: Comparator.vi and Inv_S_Trigger.vi.
-

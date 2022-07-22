@@ -5,6 +5,7 @@ file: /courses/6-071j-introduction-to-electronics-signals-and-measurement-spring
 file_type: application/zip
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lab9.zip
 uid: 0e16bc95-b9c0-978f-beb1-3f7783372708
 ---
 The ZIP file contains: Current_Source_01.vi
-

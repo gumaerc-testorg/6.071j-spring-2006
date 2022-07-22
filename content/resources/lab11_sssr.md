@@ -6,6 +6,7 @@ file: /courses/6-071j-introduction-to-electronics-signals-and-measurement-spring
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lab11_sssr.pdf
 uid: 5caae702-9abb-4961-b605-7886e691ef2c
 ---
 This resource contains information on sinusoidal steady state response of RC and RL circuits.
-

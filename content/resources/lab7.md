@@ -5,6 +5,7 @@ file: /courses/6-071j-introduction-to-electronics-signals-and-measurement-spring
 file_type: application/zip
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lab7.zip
 uid: ff253a60-df83-1823-1345-836f6899b697
 ---
 The ZIP file contains: manual_resistor_experiment.vi and resistor_experiment.vi.
-

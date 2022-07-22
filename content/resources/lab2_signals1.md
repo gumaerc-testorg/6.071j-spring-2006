@@ -7,6 +7,7 @@ file: /courses/6-071j-introduction-to-electronics-signals-and-measurement-spring
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -17,4 +18,3 @@ uid: 39d27332-18ea-3563-32d3-31375d208e5c
 ---
 This resource contains information on
 introduction to signals.
-

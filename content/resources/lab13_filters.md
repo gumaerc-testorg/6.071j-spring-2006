@@ -5,6 +5,7 @@ file: /courses/6-071j-introduction-to-electronics-signals-and-measurement-spring
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lab13_filters.pdf
 uid: 6ff5a64a-7401-8ff9-ac6d-84975555625c
 ---
 This resource contains information on filters.
-

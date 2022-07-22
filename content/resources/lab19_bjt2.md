@@ -7,6 +7,7 @@ file: /courses/6-071j-introduction-to-electronics-signals-and-measurement-spring
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -17,4 +18,3 @@ uid: 5a728fdc-f492-e82d-c52a-c8d312918fa2
 ---
 This resource contains information on
 BJT biasing and amplification.
-

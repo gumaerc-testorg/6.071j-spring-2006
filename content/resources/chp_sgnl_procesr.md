@@ -9,10 +9,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: chp_sgnl_procesr.jpg
 uid: 9f37ea3e-7dce-aec4-fcd3-110fcbf745d9
 ---
 Doppler radar signal transmission, reception and processing. (Image courtesy of NASA Goddard Space Flight Center.)
-

@@ -6,6 +6,7 @@ file: /courses/6-071j-introduction-to-electronics-signals-and-measurement-spring
 file_type: application/zip
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lab8.zip
 uid: 8d839e7e-dbac-b854-e1c6-10c6c8c8e9ac
 ---
 The ZIP file contains: prtyping_gdlins.pdf, Power_Transfer_1.vi, and Power_Transfer_2.vi.
-

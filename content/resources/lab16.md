@@ -5,6 +5,7 @@ file: /courses/6-071j-introduction-to-electronics-signals-and-measurement-spring
 file_type: application/zip
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lab16.zip
 uid: f92c8e93-c28c-b556-3ede-bad6e0b8264f
 ---
 The ZIP file contains: diode_1n914.pdf, zener_1n754.pdf, and ZenerRegulator.vi.
-

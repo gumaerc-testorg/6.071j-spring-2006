@@ -6,6 +6,7 @@ file: /courses/6-071j-introduction-to-electronics-signals-and-measurement-spring
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: quiz2.pdf
 uid: 2a5b9d70-c2d6-5d7a-22f2-0300b2268c87
 ---
 This resource contains information on resistance, steady state behaviour, and impedance.
-

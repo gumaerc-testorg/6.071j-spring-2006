@@ -5,6 +5,7 @@ file: /courses/6-071j-introduction-to-electronics-signals-and-measurement-spring
 file_type: application/zip
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lab4.zip
 uid: 5d031071-aac4-191e-1fbc-8ccf7031d7c1
 ---
 The ZIP file contains: Aliasing.vi and SamplingAliasing.vi.
-

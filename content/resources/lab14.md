@@ -5,6 +5,7 @@ file: /courses/6-071j-introduction-to-electronics-signals-and-measurement-spring
 file_type: application/zip
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lab14.zip
 uid: df4570cf-5950-b716-ffb5-4dab266fc89a
 ---
 The ZIP file contains: Bandwidth.vi and Notch.vi.
-

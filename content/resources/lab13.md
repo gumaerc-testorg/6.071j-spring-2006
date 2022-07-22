@@ -5,6 +5,7 @@ file: /courses/6-071j-introduction-to-electronics-signals-and-measurement-spring
 file_type: application/zip
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lab13.zip
 uid: 99838ea7-4ad8-a58b-db56-c27da402634a
 ---
 The ZIP file contains: Filter2.vi, Filters.vi, and PianoC.wav.
-

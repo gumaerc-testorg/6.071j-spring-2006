@@ -6,6 +6,7 @@ file: /courses/6-071j-introduction-to-electronics-signals-and-measurement-spring
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: hw6.pdf
 uid: d50e0742-2edd-6dae-9a92-fe56f9ed2a01
 ---
 This resource contains information on thevenin equivalent circuits and superposition theorm.
-

@@ -6,6 +6,7 @@ file: /courses/6-071j-introduction-to-electronics-signals-and-measurement-spring
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 18_diodes2.pdf
 uid: 4c6d2e1e-bc80-8f94-3b10-aaa063cd40f3
 ---
 This resource discusses about diode circuits, operating in the reverse breakdown region, light emitting diodes (LED) and photodiodes.
-

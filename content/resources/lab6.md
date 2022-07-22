@@ -5,6 +5,7 @@ file: /courses/6-071j-introduction-to-electronics-signals-and-measurement-spring
 file_type: application/zip
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lab6.zip
 uid: b84d6f07-b2fc-7c19-6f5f-c0a54e3ee0e3
 ---
 The ZIP file contains: Voltage_Divider_Thermometer.vi.
-

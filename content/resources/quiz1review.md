@@ -6,6 +6,7 @@ file: /courses/6-071j-introduction-to-electronics-signals-and-measurement-spring
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: quiz1review.pdf
 uid: c2841838-5a63-76a7-31a3-781b9b215e75
 ---
 This resource contains information on signals, series and parallel circuits, ohms law, superposition theorem, and nodal analysis.
-

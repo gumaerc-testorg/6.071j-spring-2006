@@ -6,6 +6,7 @@ file: /courses/6-071j-introduction-to-electronics-signals-and-measurement-spring
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: quiz3.pdf
 uid: 2e634db1-25de-d589-aa89-aac9690b1c6b
 ---
 This resource contains information on circuits containing capacitors and inductors, diode offset model, and BJT.
-

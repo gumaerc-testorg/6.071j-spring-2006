@@ -6,6 +6,7 @@ file: /courses/6-071j-introduction-to-electronics-signals-and-measurement-spring
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: final06.pdf
 uid: 1228e6f1-3d2b-2fac-bdd8-184ef240832b
 ---
 This resource contains information on diodes, reactive elements, op-amps, BJTs, FETs, flip flops, 555 timer, and transformer circuits.
-

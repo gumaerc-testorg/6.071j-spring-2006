@@ -6,6 +6,7 @@ file: /courses/6-071j-introduction-to-electronics-signals-and-measurement-spring
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: dgitl_1bit_adder.pdf
 uid: 406846a6-f052-eb33-50e9-9ac4a6ba4eb8
 ---
 This resource contains information on design and construction of a 1 bit adder.
-

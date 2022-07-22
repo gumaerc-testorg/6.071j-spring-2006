@@ -5,6 +5,7 @@ file: /courses/6-071j-introduction-to-electronics-signals-and-measurement-spring
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lab14_bandwidth.pdf
 uid: 268ee546-38a3-c0ff-6466-5f81f9689f4e
 ---
 This resource contains information on filters, bandwidth, and Q factor.
-

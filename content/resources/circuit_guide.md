@@ -6,6 +6,7 @@ file: /courses/6-071j-introduction-to-electronics-signals-and-measurement-spring
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: circuit_guide.pdf
 uid: e87ea594-d763-15af-cd18-ff5bca653a07
 ---
 This resource contains information including the decalogue for effective and efficient circuit building and testing.
-

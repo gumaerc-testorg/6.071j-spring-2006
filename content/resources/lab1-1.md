@@ -6,6 +6,7 @@ file: /courses/6-071j-introduction-to-electronics-signals-and-measurement-spring
 file_type: application/zip
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lab1.zip
 uid: 98f97cd3-6e24-74d4-c851-40c65af8b85e
 ---
 The ZIP file contains: circuit_guide.pdf, including the decalogue for effective and efficient circuit building and testing.
-
