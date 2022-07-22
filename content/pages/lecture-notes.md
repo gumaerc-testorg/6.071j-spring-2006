@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: The lecture notes section contains lecture notes files for the course.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 9384461b-aeba-b2c6-c719-60dbb10543fb
 ---
@@ -22,7 +26,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction; Transducers ([PDF]({{< baseurl >}}/resources/intro_to_elctro))
+Introduction; Transducers ({{% resource_link 83756679-1a64-7fbc-ef52-5979e34dc9bd "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -31,7 +35,7 @@ Introduction; Transducers ([PDF]({{< baseurl >}}/resources/intro_to_elctro))
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Signals and Systems; Time and Frequency Domain ([PDF - 1.3 MB]({{< baseurl >}}/resources/02_signals))
+Signals and Systems; Time and Frequency Domain ({{% resource_link 5e8b055b-0946-eef6-ae87-7e13e1d1371f "PDF - 1.3 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -40,7 +44,7 @@ Signals and Systems; Time and Frequency Domain ([PDF - 1.3 MB]({{< baseurl >}}/r
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Fourier Transform and Fourier Series ([PDF - 1.3 MB]({{< baseurl >}}/resources/02_signals))
+Fourier Transform and Fourier Series ({{% resource_link 5e8b055b-0946-eef6-ae87-7e13e1d1371f "PDF - 1.3 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -49,7 +53,7 @@ Fourier Transform and Fourier Series ([PDF - 1.3 MB]({{< baseurl >}}/resources/0
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Sampling and Aliasing; Numbering System ([PDF - 1.3 MB]({{< baseurl >}}/resources/02_signals))
+Sampling and Aliasing; Numbering System ({{% resource_link 5e8b055b-0946-eef6-ae87-7e13e1d1371f "PDF - 1.3 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -58,7 +62,7 @@ Sampling and Aliasing; Numbering System ([PDF - 1.3 MB]({{< baseurl >}}/resource
 5
 {{< tdclose >}}
 {{< tdopen >}}
-KVL and KCL Analysis ([PDF]({{< baseurl >}}/resources/03_kirchhoff1))
+KVL and KCL Analysis ({{% resource_link ef361480-b9bd-43aa-713a-e43e96df517f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +71,7 @@ KVL and KCL Analysis ([PDF]({{< baseurl >}}/resources/03_kirchhoff1))
 6
 {{< tdclose >}}
 {{< tdopen >}}
-KVL and KCL Analysis (cont.); Nodal Mesh Analysis ([PDF]({{< baseurl >}}/resources/nodal_mesh_methd))
+KVL and KCL Analysis (cont.); Nodal Mesh Analysis ({{% resource_link 9d19116c-babe-ada1-c980-04a4367a0ee0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -76,7 +80,7 @@ KVL and KCL Analysis (cont.); Nodal Mesh Analysis ([PDF]({{< baseurl >}}/resourc
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Superposition Method; Thevenin Circuits; Circuits ([PDF]({{< baseurl >}}/resources/linear_crct_ana))
+Superposition Method; Thevenin Circuits; Circuits ({{% resource_link 004de24d-d40e-3938-b039-3a6a2bd91788 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -85,7 +89,7 @@ Superposition Method; Thevenin Circuits; Circuits ([PDF]({{< baseurl >}}/resourc
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Norton Equivalent Circuits ([PDF]({{< baseurl >}}/resources/linear_crct_ana))
+Norton Equivalent Circuits ({{% resource_link 004de24d-d40e-3938-b039-3a6a2bd91788 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -94,7 +98,7 @@ Norton Equivalent Circuits ([PDF]({{< baseurl >}}/resources/linear_crct_ana))
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Dependent Sources ([PDF]({{< baseurl >}}/resources/06_dep_source1))
+Dependent Sources ({{% resource_link 6368191d-f1e3-51ef-3d36-77ee0312fefc "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -112,7 +116,7 @@ Quiz 1
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Dependent Sources (cont.) ([PDF]({{< baseurl >}}/resources/07_dep_source2))
+Dependent Sources (cont.) ({{% resource_link e6571ea2-1192-003e-7ff2-4a3c6b6d5518 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -121,7 +125,7 @@ Dependent Sources (cont.) ([PDF]({{< baseurl >}}/resources/07_dep_source2))
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Capacitors and Inductors ([PDF]({{< baseurl >}}/resources/capactr_inductr))
+Capacitors and Inductors ({{% resource_link eac1995a-ca83-0cfd-0de6-bab60a8abf10 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -130,7 +134,7 @@ Capacitors and Inductors ([PDF]({{< baseurl >}}/resources/capactr_inductr))
 13
 {{< tdclose >}}
 {{< tdopen >}}
-Impedance Method ([PDF]({{< baseurl >}}/resources/09_sss))
+Impedance Method ({{% resource_link 3ebe2f16-3ad8-e158-1810-0eb9b93d1e97 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -139,7 +143,7 @@ Impedance Method ([PDF]({{< baseurl >}}/resources/09_sss))
 14
 {{< tdclose >}}
 {{< tdopen >}}
-Sinusoidal Steady State; Differential Equation Method ([PDF]({{< baseurl >}}/resources/sss_phsor_impdce))
+Sinusoidal Steady State; Differential Equation Method ({{% resource_link 96c80ce0-d551-3139-310a-9526fdadb419 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -148,7 +152,7 @@ Sinusoidal Steady State; Differential Equation Method ([PDF]({{< baseurl >}}/res
 15
 {{< tdclose >}}
 {{< tdopen >}}
-Sinusoidal Steady State with Impedance Method ([PDF]({{< baseurl >}}/resources/impednce_rlc_sol))
+Sinusoidal Steady State with Impedance Method ({{% resource_link ee72ddc1-ba87-792d-c657-9f7f2157ea42 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -157,7 +161,7 @@ Sinusoidal Steady State with Impedance Method ([PDF]({{< baseurl >}}/resources/i
 16
 {{< tdclose >}}
 {{< tdopen >}}
-Frequency Response; Filters ([PDF]({{< baseurl >}}/resources/12_filters))
+Frequency Response; Filters ({{% resource_link 21e9fbf2-dd22-2913-3864-f1baac0b6335 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -166,7 +170,7 @@ Frequency Response; Filters ([PDF]({{< baseurl >}}/resources/12_filters))
 17
 {{< tdclose >}}
 {{< tdopen >}}
-Frequency Response (cont.); Filters and Q Factor ([PDF]({{< baseurl >}}/resources/resonance_qfactr))
+Frequency Response (cont.); Filters and Q Factor ({{% resource_link 5bcec4bf-ba5f-2e99-754b-77509e9e7ab4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -175,7 +179,7 @@ Frequency Response (cont.); Filters and Q Factor ([PDF]({{< baseurl >}}/resource
 18
 {{< tdclose >}}
 {{< tdopen >}}
-Transient Response of Circuits; First Order and RL Circuits ([PDF]({{< baseurl >}}/resources/transient1_rl_rc))
+Transient Response of Circuits; First Order and RL Circuits ({{% resource_link 4b6a5fe6-26d6-5de2-0ceb-97d8d23f38a4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -193,7 +197,7 @@ Quiz 2
 20
 {{< tdclose >}}
 {{< tdopen >}}
-Transient Response of First Order Circuits ([PDF]({{< baseurl >}}/resources/trns1_rc_lc_rlc1))
+Transient Response of First Order Circuits ({{% resource_link 3021be47-ce51-0605-07c5-fa54373f2d78 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -202,7 +206,7 @@ Transient Response of First Order Circuits ([PDF]({{< baseurl >}}/resources/trns
 21
 {{< tdclose >}}
 {{< tdopen >}}
-Transient Response of Second Order Circuits ([PDF]({{< baseurl >}}/resources/16_transint_rlc2))
+Transient Response of Second Order Circuits ({{% resource_link a929d338-9683-9a7b-f1ca-2631cd87e711 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -211,7 +215,7 @@ Transient Response of Second Order Circuits ([PDF]({{< baseurl >}}/resources/16_
 22
 {{< tdclose >}}
 {{< tdopen >}}
-Circuits with Non-linear Elements; Diode ([PDF]({{< baseurl >}}/resources/17_diodes1))
+Circuits with Non-linear Elements; Diode ({{% resource_link 9b3b5a9e-ef65-ffb5-1e82-88887a79c2ef "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -220,7 +224,7 @@ Circuits with Non-linear Elements; Diode ([PDF]({{< baseurl >}}/resources/17_dio
 23
 {{< tdclose >}}
 {{< tdopen >}}
-Design and Analysis of Diode Circuits ([PDF]({{< baseurl >}}/resources/18_diodes2))
+Design and Analysis of Diode Circuits ({{% resource_link 4c6d2e1e-bc80-8f94-3b10-aaa063cd40f3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -229,7 +233,7 @@ Design and Analysis of Diode Circuits ([PDF]({{< baseurl >}}/resources/18_diodes
 24
 {{< tdclose >}}
 {{< tdopen >}}
-BJT ([PDF]({{< baseurl >}}/resources/19_bjt_1))
+BJT ({{% resource_link b30aa58f-b0c9-915d-a21e-5a5855384818 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -238,7 +242,7 @@ BJT ([PDF]({{< baseurl >}}/resources/19_bjt_1))
 25
 {{< tdclose >}}
 {{< tdopen >}}
-BJT (cont.) ([PDF]({{< baseurl >}}/resources/20_bjt_2))
+BJT (cont.) ({{% resource_link 50a8dea3-a2f8-50d4-0c93-33fefa2db6f1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -247,7 +251,7 @@ BJT (cont.) ([PDF]({{< baseurl >}}/resources/20_bjt_2))
 26
 {{< tdclose >}}
 {{< tdopen >}}
-BJT (cont.) ([PDF]({{< baseurl >}}/resources/21_bjt_3))
+BJT (cont.) ({{% resource_link 397c67d9-efb3-9419-782f-d222b5239a82 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -265,7 +269,7 @@ Quiz 3
 28
 {{< tdclose >}}
 {{< tdopen >}}
-Op Amp ([PDF]({{< baseurl >}}/resources/22_op_amps1))
+Op Amp ({{% resource_link e7b81789-ae20-fd3c-ac8c-1855359b3e10 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -274,7 +278,7 @@ Op Amp ([PDF]({{< baseurl >}}/resources/22_op_amps1))
 29
 {{< tdclose >}}
 {{< tdopen >}}
-Op Amp (cont.); Fundamental Amplifier Circuits; Input/Output Impedance ([PDF]({{< baseurl >}}/resources/22_op_amps1))
+Op Amp (cont.); Fundamental Amplifier Circuits; Input/Output Impedance ({{% resource_link e7b81789-ae20-fd3c-ac8c-1855359b3e10 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -283,7 +287,7 @@ Op Amp (cont.); Fundamental Amplifier Circuits; Input/Output Impedance ([PDF]({{
 30
 {{< tdclose >}}
 {{< tdopen >}}
-Op Amp (cont.); Active Filters; Superdiode, Log, Antilog Filters ([PDF]({{< baseurl >}}/resources/23_op_amps2))
+Op Amp (cont.); Active Filters; Superdiode, Log, Antilog Filters ({{% resource_link 5bc88e4a-f14b-c9c7-2e63-f48cd2a44613 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -310,7 +314,7 @@ Control
 33
 {{< tdclose >}}
 {{< tdopen >}}
-Op Amp (cont.); Positive Feedback; Schmitt Trigger ([PDF]({{< baseurl >}}/resources/24_op_amps3))
+Op Amp (cont.); Positive Feedback; Schmitt Trigger ({{% resource_link b713e408-ddb3-59fd-7293-60244e747aff "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -328,7 +332,7 @@ Design and Build a Heart Rate Monitor
 37
 {{< tdclose >}}
 {{< tdopen >}}
-Digital Circuits ([PDF]({{< baseurl >}}/resources/25_intro_digital))
+Digital Circuits ({{% resource_link 51c0f7cd-6d79-4156-1116-9e1d927d72f1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -337,7 +341,7 @@ Digital Circuits ([PDF]({{< baseurl >}}/resources/25_intro_digital))
 38
 {{< tdclose >}}
 {{< tdopen >}}
-Digital Circuits (cont.) ([PDF]({{< baseurl >}}/resources/sequential_logic))
+Digital Circuits (cont.) ({{% resource_link d0a578bc-6340-f911-88b1-e3ac487b62ab "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
