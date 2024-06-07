@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information on resistance, steady state behaviour,
   and impedance.
 file: /courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/2a5b9d70c2d65d7a22f20300b2268c87_quiz2.pdf
+file_size: 129053
 file_type: application/pdf
 learning_resource_types:
 - Exams

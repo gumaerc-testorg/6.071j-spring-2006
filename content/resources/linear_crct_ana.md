@@ -4,6 +4,7 @@ description: This resource discusses about a time-independent elements, the i-v 
   of circuits, Thevenin equivalent circuits and the wheatstone bridge circuit as a
   measuring instrument.
 file: /courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/004de24dd40e3938b0393a6a2bd91788_linear_crct_ana.pdf
+file_size: 253558
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

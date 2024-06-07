@@ -4,6 +4,7 @@ description: This resource discusses about initial equilibrium or initial steady
   condition, source free RC circuit, source free RL circuit and RC and RL circuits
   with multiple resistors.
 file: /courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/4b6a5fe626d65de20ceb97d8d23f38a4_transient1_rl_rc.pdf
+file_size: 171863
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
