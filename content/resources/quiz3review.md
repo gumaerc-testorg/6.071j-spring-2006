@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information on RLC circuits, diodes, transistors,
   diode bridge, and load lines
 file: /courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/e49318288a9dbc5b97d4292fc3cc232f_quiz3review.pdf
+file_size: 667123
 file_type: application/pdf
 learning_resource_types:
 - Exams

@@ -4,6 +4,7 @@ description: 'This resource contains information on
 
   BJT biasing and amplification.'
 file: /courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/5a728fdcf492e82dc52ac8d312918fa2_lab19_bjt2.pdf
+file_size: 66128
 file_type: application/pdf
 learning_resource_types:
 - Labs

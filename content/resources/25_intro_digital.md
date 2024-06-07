@@ -3,6 +3,7 @@ content_type: resource
 description: This resource discusses about digital signal, numbering systems, binary
   code, binary to decimal conversion and decimal to binary conversion.
 file: /courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/51c0f7cd6d79415611169e1d927d72f1_25_intro_digital.pdf
+file_size: 350854
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

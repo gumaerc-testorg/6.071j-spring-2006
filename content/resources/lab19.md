@@ -2,6 +2,7 @@
 content_type: resource
 description: 'The ZIP file contains: BJTamp.vi.'
 file: /courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/7b6564df56545ae2d5ec730421bebb06_lab19.zip
+file_size: 243555
 file_type: application/zip
 learning_resource_types:
 - Labs
