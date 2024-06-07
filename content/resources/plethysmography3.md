@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/d988ad7561790e98c3db097a3559f881_plethysmography3.pdf
+file_size: 2355803
 file_type: application/pdf
 learning_resource_types:
 - Labs

@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information on filters, bandwidth, and Q factor.
 file: /courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/268ee54638a3c0ff64665f81f9689f4e_lab14_bandwidth.pdf
+file_size: 27512
 file_type: application/pdf
 learning_resource_types:
 - Labs

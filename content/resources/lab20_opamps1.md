@@ -4,6 +4,7 @@ description: 'This resource contains information on
 
   introduction to the Op-Amp.'
 file: /courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/627bb6e13edccf6e6dc3bf01a2f05bdc_lab20_opamps1.pdf
+file_size: 29421
 file_type: application/pdf
 learning_resource_types:
 - Labs
