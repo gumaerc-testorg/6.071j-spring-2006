@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/58a51a81c9966995ab77fb1d5d54f9d8_lab3solutions.pdf
+file: /ol-ocw-studio-app/courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/58a51a81c9966995ab77fb1d5d54f9d8_lab3solutions.pdf
 file_size: 196214
 file_type: application/pdf
 learning_resource_types:
