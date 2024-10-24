@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/520080ec6cf47df8e3b21530cabcae04_heartratesol.pdf
+file: /ol-ocw-studio-app/courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/520080ec6cf47df8e3b21530cabcae04_heartratesol.pdf
 file_size: 218851
 file_type: application/pdf
 learning_resource_types:

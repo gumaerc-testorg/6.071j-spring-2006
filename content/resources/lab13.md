@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'The ZIP file contains: Filter2.vi, Filters.vi, and PianoC.wav.'
-file: /courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/99838ea74ad8a58bdb56c27da402634a_lab13.zip
+file: /ol-ocw-studio-app/courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/99838ea74ad8a58bdb56c27da402634a_lab13.zip
 file_size: 2908770
 file_type: application/zip
 learning_resource_types:

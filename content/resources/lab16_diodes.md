@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information on diodes, and signal conditioning.
-file: /courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/560e960ea2abc4f0feab183f3f681b50_lab16_diodes.pdf
+file: /ol-ocw-studio-app/courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/560e960ea2abc4f0feab183f3f681b50_lab16_diodes.pdf
 file_size: 99580
 file_type: application/pdf
 learning_resource_types:
