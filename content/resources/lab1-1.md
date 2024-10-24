@@ -2,7 +2,7 @@
 content_type: resource
 description: 'The ZIP file contains: circuit_guide.pdf, including the decalogue for
   effective and efficient circuit building and testing.'
-file: /courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/98f97cd36e2474d4c85140c65af8b85e_lab1.zip
+file: /ol-ocw-studio-app/courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/98f97cd36e2474d4c85140c65af8b85e_lab1.zip
 file_size: 5735
 file_type: application/zip
 learning_resource_types:
