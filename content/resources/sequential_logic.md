@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource discusses about bistable circuit, the set-reset (SR) flip-flop,
   clocked SR flip-flop, JK flip-flop and the T flip-flop.
-file: /ol-ocw-studio-app/courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/d0a578bc6340f91188b1e3ac487b62ab_sequential_logic.pdf
+file: /courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/d0a578bc6340f91188b1e3ac487b62ab_sequential_logic.pdf
 file_size: 136012
 file_type: application/pdf
 learning_resource_types:

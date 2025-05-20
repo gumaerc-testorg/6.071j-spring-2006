@@ -2,7 +2,7 @@
 content_type: resource
 description: 'The ZIP file contains: Adding_sinusoidal_signals.vi, Sound_Signal.vi,
   and PianoC.wav files.'
-file: /ol-ocw-studio-app/courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/a1c7fb1a43d2c9e658849695089d8d29_lab2.zip
+file: /courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/a1c7fb1a43d2c9e658849695089d8d29_lab2.zip
 file_size: 358512
 file_type: application/zip
 learning_resource_types:

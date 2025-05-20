@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on voltage rules, additional cautions,
   and basic electrical safety practices.
-file: /ol-ocw-studio-app/courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/aaacee926556e3234368e5fc9e5aa3d1_electric_safety.pdf
+file: /courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/aaacee926556e3234368e5fc9e5aa3d1_electric_safety.pdf
 file_size: 26433
 file_type: application/pdf
 learning_resource_types:

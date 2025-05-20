@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'The ZIP file contains: diode_1n914.pdf, zener_1n754.pdf, and ZenerRegulator.vi.'
-file: /ol-ocw-studio-app/courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/f92c8e93c28cb5563edebad6e0b8264f_lab16.zip
+file: /courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/f92c8e93c28cb5563edebad6e0b8264f_lab16.zip
 file_size: 122560
 file_type: application/zip
 learning_resource_types:
