@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on capacitors, inductors, thevnin,
   and norton equivalent circuits.
-file: /ol-ocw-studio-app/courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/b748e477cf3cedb7a436068adb7d756c_hw5.pdf
+file: /courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/b748e477cf3cedb7a436068adb7d756c_hw5.pdf
 file_size: 31716
 file_type: application/pdf
 learning_resource_types:

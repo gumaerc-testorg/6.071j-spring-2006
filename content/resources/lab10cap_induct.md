@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information on capacitors and inductors
-file: /ol-ocw-studio-app/courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/cb305f0127cbe070d8974b442ab8ef83_lab10cap_induct.pdf
+file: /courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/cb305f0127cbe070d8974b442ab8ef83_lab10cap_induct.pdf
 file_size: 37772
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource discusses about course description, thermistor, a thermoelectric
   transducer and becoming familiar with the hardware and software.
-file: /ol-ocw-studio-app/courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/837566791a647fbcef525979e34dc9bd_intro_to_elctro.pdf
+file: /courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/837566791a647fbcef525979e34dc9bd_intro_to_elctro.pdf
 file_size: 354281
 file_type: application/pdf
 learning_resource_types:

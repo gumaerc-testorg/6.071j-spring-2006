@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'The ZIP file contains: Voltage_Divider_Thermometer.vi.'
-file: /ol-ocw-studio-app/courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/b84d6f07b2fc7c196f5fc0a54e3ee0e3_lab6.zip
+file: /courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/b84d6f07b2fc7c196f5fc0a54e3ee0e3_lab6.zip
 file_size: 215509
 file_type: application/zip
 learning_resource_types:

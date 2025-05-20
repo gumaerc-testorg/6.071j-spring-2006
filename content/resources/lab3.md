@@ -2,7 +2,7 @@
 content_type: resource
 description: 'The ZIP file contains: SawtoothFS.vi, SquareWaveFS.vi, SquareWaveFS_nterms.vi,
   and TriangularFS.vi.'
-file: /ol-ocw-studio-app/courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/33092378b963a69c9ab36c92e78f2d23_lab3.zip
+file: /courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/33092378b963a69c9ab36c92e78f2d23_lab3.zip
 file_size: 885333
 file_type: application/zip
 learning_resource_types:
