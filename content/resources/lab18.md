@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/90e67f2cebfa41225fc16a42aa395cad_lab18.zip
+file: /courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/90e67f2cebfa41225fc16a42aa395cad_lab18.zip
 file_size: 150657
 file_type: application/zip
 learning_resource_types:

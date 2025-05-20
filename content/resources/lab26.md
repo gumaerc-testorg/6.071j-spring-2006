@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'The ZIP file contains: adder_simulation.vi.'
-file: /ol-ocw-studio-app/courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/e8f35b0af4ab8ab4ce480ad57cc752bb_lab26.zip
+file: /courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/e8f35b0af4ab8ab4ce480ad57cc752bb_lab26.zip
 file_size: 22161
 file_type: application/zip
 learning_resource_types:

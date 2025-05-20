@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'The ZIP file contains: ZenerRegulator.vi.'
-file: /ol-ocw-studio-app/courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/fafd1592887e3271ac57901a3e7ec690_lab17.zip
+file: /courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/fafd1592887e3271ac57901a3e7ec690_lab17.zip
 file_size: 88069
 file_type: application/zip
 learning_resource_types:

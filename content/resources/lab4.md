@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'The ZIP file contains: Aliasing.vi and SamplingAliasing.vi.'
-file: /ol-ocw-studio-app/courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/5d031071aac4191e1fbc8ccf7031d7c1_lab4.zip
+file: /courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/5d031071aac4191e1fbc8ccf7031d7c1_lab4.zip
 file_size: 474187
 file_type: application/zip
 learning_resource_types:
