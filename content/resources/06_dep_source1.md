@@ -3,7 +3,7 @@ content_type: resource
 description: Introduction and analysis of circuit containing dependent sources, current
   amplifier circuit, nodal analysis of circuits with dependent sources, and amplifier
   circuit.
-file: /courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/6368191df1e351ef3d3677ee0312fefc_06_dep_source1.pdf
+file: /ol-ocw-studio-app/courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/6368191df1e351ef3d3677ee0312fefc_06_dep_source1.pdf
 file_size: 260049
 file_type: application/pdf
 learning_resource_types:

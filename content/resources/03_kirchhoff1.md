@@ -4,7 +4,7 @@ description: This resource contains information on fundamentals of dc electric c
   i/v curves, ideal dc voltage sources, ideal dc current sources, ideal resistor,
   power, circuits and networks, kirchhoff's law, voltage devider, non-ideal voltage
   sources, non-ideal current sources, and non-ideal resistors.
-file: /courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/ef361480b9bd43aa713ae43e96df517f_03_kirchhoff1.pdf
+file: /ol-ocw-studio-app/courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/ef361480b9bd43aa713ae43e96df517f_03_kirchhoff1.pdf
 file_size: 232218
 file_type: application/pdf
 learning_resource_types:

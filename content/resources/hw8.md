@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains problems on circuits driven with sinusoidal input
   waveforms.
-file: /courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/d59fa852c35a6a1532375e0d4586800f_hw8.pdf
+file: /ol-ocw-studio-app/courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/d59fa852c35a6a1532375e0d4586800f_hw8.pdf
 file_size: 84359
 file_type: application/pdf
 learning_resource_types:
