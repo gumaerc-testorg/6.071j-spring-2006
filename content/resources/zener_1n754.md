@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: ''
-file: /courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/22422be4a130385793f1efac0f74d77c_zener_1n754.pdf
+file: /ol-ocw-studio-app/courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/22422be4a130385793f1efac0f74d77c_zener_1n754.pdf
 file_size: 60911
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

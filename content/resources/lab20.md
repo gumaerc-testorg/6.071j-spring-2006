@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: 'The ZIP file contains: Op-Amp1.vi.'
-file: /courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/df3787918475b133443bbdc9f4a24155_lab20.zip
+file: /ol-ocw-studio-app/courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/df3787918475b133443bbdc9f4a24155_lab20.zip
 file_size: 404692
 file_type: application/zip
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

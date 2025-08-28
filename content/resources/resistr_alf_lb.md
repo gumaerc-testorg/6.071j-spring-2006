@@ -3,11 +3,11 @@ content_type: resource
 description: 'This resource contains information on
 
   measuring the temperature coefficient of resistors.'
-file: /courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/1fc7bcd5091e339c47ab7484492d8fa9_resistr_alf_lb.pdf
+file: /ol-ocw-studio-app/courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/1fc7bcd5091e339c47ab7484492d8fa9_resistr_alf_lb.pdf
 file_size: 161724
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
